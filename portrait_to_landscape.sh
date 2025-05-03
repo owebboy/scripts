@@ -1,12 +1,12 @@
 #!/bin/bash
 
 # portrait_to_landscape.sh - Convert portrait images to landscape by adding black bars
-# Run directly with: curl -s https://example.com/portrait_to_landscape.sh | bash -s -- [options]
+# Run directly with: curl -s https://raw.githubusercontent.com/owebboy/scripts/refs/heads/main/portrait_to_landscape.sh | bash -s -- [options]
 
 # Version information
 VERSION="1.0.0"
 SCRIPT_NAME="portrait_to_landscape.sh"
-SCRIPT_URL="https://example.com/portrait_to_landscape.sh"
+SCRIPT_URL="https://raw.githubusercontent.com/owebboy/scripts/refs/heads/main/portrait_to_landscape.sh"
 
 # Default values
 INPUT_FOLDER="."
